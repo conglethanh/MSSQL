@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\bin\ThuVienNhac.dll.config
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\bin\ThuVienNhac.dll
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\bin\ThuVienNhac.pdb
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\obj\Debug\ThuVienNhac.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\obj\Debug\ThuVienNhac.dll
+c:\users\admin\documents\visual studio 2013\Projects\ThuVienNhac\ThuVienNhac\obj\Debug\ThuVienNhac.pdb
